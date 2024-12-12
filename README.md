@@ -1,19 +1,16 @@
-# TÍTULO DO PROJETO
+# Animação 3D utilizando Mocap AI e Blender
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelgaem 3D`
+`2024 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Luiz Octavio Jacinto de Freitas
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
