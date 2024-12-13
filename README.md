@@ -3,14 +3,17 @@
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelgaem 3D`
 `2024 - Semestre 2`
-![1](https://github.com/user-![Uploading Captura de tela 2024-12-12 210958.png…]()
-![2](https://github.com/user-attachments/assets/778c709c-d87c-4437-886c-e4f9558c9d17)
-attachments/assets/1704a80d-0f2b-46fb-a402-9052b7235c0b)
-![Captura de tela 2024-12-12 210958](https://github.com/user-attachments/assets/18fbfdc1-07b5-48ab-8b8c-d74cb1ec1abb)
-![Captura de tela 2024-12-12 210924](https://github.com/user-attachments/assets/6f6845a4-6f59-47a7-a114-ee6a3cf0c522)
 
-## Integrantes![Captura de tela 2024-12-12 210924](https://github.com/user-attachments/assets/d6429922-9e73-4397-a608-78d59eb1ca90)
+![1](https://github.com/user-attachments/assets/1a2fd01d-65d0-4348-8a5d-18d73ff55074)
 
+![2](https://github.com/user-attachments/assets/9b43e07e-02c0-4de2-b662-d990f41e73d4)
+![Captura de tela 2024-12-12 210924](https://github.com/user-attachments/assets/067c79b9-c81c-41f4-bcd8-fdb8ad249d83)
+
+
+
+
+
+## Integrantes
 
 - Luiz Octavio Jacinto de Freitas
 
