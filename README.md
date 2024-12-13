@@ -6,6 +6,9 @@
 
 Link para o arquivo blender: https://drive.google.com/drive/folders/1M_ddLa-J4EGnUerlfpHAjgjAbCrc13zG?usp=sharing
 
+Tutorial seguido: Crie animações 3D realistas fácil usando vídeos, Mocap AI e Blender - Técnicas de
+animação 3D https://www.youtube.com/watch?v=4lGf1XSFFJY
+
 ![1](https://github.com/user-attachments/assets/1a2fd01d-65d0-4348-8a5d-18d73ff55074)
 
 ![2](https://github.com/user-attachments/assets/9b43e07e-02c0-4de2-b662-d990f41e73d4)
