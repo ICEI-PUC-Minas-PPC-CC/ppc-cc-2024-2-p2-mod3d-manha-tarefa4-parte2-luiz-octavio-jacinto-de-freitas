@@ -10,8 +10,10 @@
 ![Captura de tela 2024-12-12 210924](https://github.com/user-attachments/assets/067c79b9-c81c-41f4-bcd8-fdb8ad249d83)
 
 
+![Captura de tela 2024-12-12 210958](https://github.com/user-attachments/assets/51ca5560-ba22-434e-ae39-a57368c614ce)
 
 
+![Captura de tela 2024-12-12 211213](https://github.com/user-attachments/assets/c0a5992e-c6cc-4e7a-be33-6c201201c595)
 
 ## Integrantes
 
