@@ -6,7 +6,7 @@
 
 • Animação 3D criada no Blender com o uso de software de captura de movimentos.
 
-Link para o arquivo blender: https://drive.google.com/drive/folders/1M_ddLa-J4EGnUerlfpHAjgjAbCrc13zG?usp=sharing
+Link para os arquivos: https://drive.google.com/drive/folders/1M_ddLa-J4EGnUerlfpHAjgjAbCrc13zG?usp=sharing
 
 Link para o vídeo demonstrando o trabalho: https://youtu.be/p5HEfqazTKk
 
